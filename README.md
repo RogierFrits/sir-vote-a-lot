@@ -6,14 +6,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Demo
 
-To see a live demo, visit: [http://localhost:3000](http://localhost:3000)
+To see a live demo, visit: [https://rogierfrits.github.io/sir-vote-a-lot/](https://rogierfrits.github.io/sir-vote-a-lot/)
 
 ## Develop
 
 ### Run locally
 
 `npm install`
+
 `npm start`
+
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.
