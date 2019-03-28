@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/sir-vote-a-lot/static/js/runtime~main.bf7c79ef.js"
   },
   {
-    "revision": "afb9b1415a43ddd1472d",
-    "url": "/sir-vote-a-lot/static/js/main.d0e7f2b5.chunk.js"
+    "revision": "5aa420db35e9e5f6949b",
+    "url": "/sir-vote-a-lot/static/js/main.e53e4145.chunk.js"
   },
   {
     "revision": "96c62db8f3c97c27283c",
     "url": "/sir-vote-a-lot/static/js/2.d7bcbf22.chunk.js"
   },
   {
-    "revision": "afb9b1415a43ddd1472d",
+    "revision": "5aa420db35e9e5f6949b",
     "url": "/sir-vote-a-lot/static/css/main.52304dde.chunk.css"
   },
   {
-    "revision": "7c7811673033540a6a9b4d94e7a1a5c8",
+    "revision": "b5963f6bd9aa06c71d04a96412778424",
     "url": "/sir-vote-a-lot/index.html"
   }
 ];
