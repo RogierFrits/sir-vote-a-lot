@@ -21,7 +21,7 @@ export const Results = ({
   if (!answersAmount) {
     return <Placeholder />;
   }
-  console.log(answerChartData);
+
   return (
     <Grid
       className={classes.root}
